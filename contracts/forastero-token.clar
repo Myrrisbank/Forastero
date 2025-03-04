@@ -36,7 +36,7 @@
     name: token-name,
     symbol: token-symbol,
     decimals: token-decimals,
-    description: "A fixed-supply fungible token backed by real-world cocoa farming.",
+    description: "A fixed-supply fungible token backed by real-world cocoa farming, providing a bridge between blockchain technology and sustainable agriculture.",
     image: "https://forastero.xyz/images/vite.svg",
     contractAddress: tx-sender
   })
